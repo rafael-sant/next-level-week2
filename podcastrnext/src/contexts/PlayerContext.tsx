@@ -24,7 +24,6 @@ type PlayerContextData = {
     toggleLoop: () => void;
     toggleShuffle: () => void;
     playNext: () => void;
-
     playPrevious: () => void;
 }
 
